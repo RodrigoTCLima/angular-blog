@@ -1,0 +1,8 @@
+*{
+    background-color: rgb(53, 53, 53);
+    display: flex;
+    justify-content: center;
+}
+a {
+    margin: 5px 55px;
+}
