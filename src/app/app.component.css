@@ -1,3 +1,9 @@
+.container__blog {
+  display: grid;
+  grid-template-rows: auto 1fr auto; /* Cabeçalho, Conteúdo, Rodapé */
+  min-height: 100vh;
+}
+
 header {
   margin-top: 15px;
   display: flex;
